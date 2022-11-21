@@ -1,1 +1,1 @@
-echo 'hello'
+echo '$1 Steve'
