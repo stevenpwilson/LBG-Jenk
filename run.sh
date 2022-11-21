@@ -1,1 +1,1 @@
-echo 'hello from run.sh!'
+echo 'hello from git hub and run.sh!'
